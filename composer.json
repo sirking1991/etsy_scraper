@@ -1,0 +1,17 @@
+{
+    "name": "sdejesus/scraper",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "league/csv": "^9.6",
+        "symfony/dom-crawler": "^5.1",
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/css-selector": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Sherwin",
+            "email": "sirking1991@gmail.com"
+        }
+    ]
+}
